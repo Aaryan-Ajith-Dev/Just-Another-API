@@ -2,7 +2,7 @@ import express from 'express'
 import cors from 'cors'
 import AuthRouter from './routers/AuthRouter.js'
 
-
+const app = express();
 
 app.use(cors());
 app.use(express.json());
