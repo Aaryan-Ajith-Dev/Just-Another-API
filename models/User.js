@@ -8,8 +8,8 @@ const UserSchema = mongoose.Schema({
         required: true,
     },
     profile_picture: String,
-    password: String,
-    role: String
+    password: {type: String, required: true},
+    role: {type: String, required: true}
 })
 
 const User = mongoose.model('Users', UserSchema);

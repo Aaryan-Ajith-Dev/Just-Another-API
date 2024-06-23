@@ -57,8 +57,8 @@ Before you begin, ensure you have the following installed:
 
     ```env
     PORT=3000
-    MONGO_URI=mongodb://localhost:27017/your-database
-    JWT_SECRET=your_jwt_secret
+    DB=mongodb://localhost:27017/your-database
+    SECRET_ACCESS_TOKEN=your_jwt_secret
     ```
 
 ## Usage
