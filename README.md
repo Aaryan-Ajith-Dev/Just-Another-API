@@ -1,4 +1,4 @@
-# Node-Mongoose API
+# Just Another API
 
 ## Overview
 
