@@ -6,7 +6,7 @@ This project is a RESTful API built with Node.js and Mongoose, demonstrating var
 
 ## Table of Contents
 
-- [Node-Mongoose API](#node-mongoose-api)
+- [Just Another API](#node-mongoose-api)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
