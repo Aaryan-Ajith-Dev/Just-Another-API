@@ -16,12 +16,6 @@ This project is a RESTful API built with Node.js and Mongoose, demonstrating var
     - [Configuration](#configuration)
   - [Usage](#usage)
     - [Running the Server](#running-the-server)
-    - [API Endpoints](#api-endpoints)
-  - [Testing](#testing)
-  - [Folder Structure](#folder-structure)
-  - [Technologies Used](#technologies-used)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Features
 
