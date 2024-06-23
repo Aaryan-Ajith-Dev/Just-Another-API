@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a RESTful API built with Node.js and Mongoose, demonstrating various skills that I have learnt. The API provides authentication, validation, error handling, and more.
+This project is a RESTful API built with Node.js and Mongoose, demonstrating various skills that I had learnt and am currently learning. The API provides authentication, validation, error handling, and more.
 
 ## Table of Contents
 
