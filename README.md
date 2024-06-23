@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a RESTful API built with Node.js and Mongoose, demonstrating various backend skills. It serves as a foundation for building scalable and maintainable server-side applications. The API includes CRUD operations, authentication, validation, and more.
+This project is a RESTful API built with Node.js and Mongoose, demonstrating various skills that I have learnt. The API provides authentication, validation, error handling, and more.
 
 ## Table of Contents
 
@@ -70,4 +70,4 @@ Start the development server:
 ```bash
 npm start
 ```
-The server will be running at http://localhost:{PORT}.
+The server will be running at http://localhost:3000.
